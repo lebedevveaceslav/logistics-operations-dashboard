@@ -1,0 +1,6 @@
+destination,delivered_shipments,avg_delay_days,on_time_rate_pct
+Balti,13,0.15,84.6
+Orhei,17,0.35,76.5
+Ungheni,10,0.5,70.0
+Chisinau,24,0.58,66.7
+Cahul,10,0.6,50.0
