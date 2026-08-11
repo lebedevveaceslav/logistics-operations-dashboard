@@ -1,0 +1,4 @@
+month,delivered_shipments,on_time_rate_pct,avg_delay_days
+2026-01,17,70.6,0.47
+2026-02,30,73.3,0.43
+2026-03,27,66.7,0.44
