@@ -1,0 +1,4 @@
+carrier,delivered_shipments,avg_delay_days,on_time_rate_pct
+NorthLine,23,0.17,82.6
+MoldCargo,32,0.44,71.9
+RapidTrans,19,0.79,52.6
