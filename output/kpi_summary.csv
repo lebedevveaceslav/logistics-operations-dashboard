@@ -1,0 +1,8 @@
+metric,value
+total_shipments,120.0
+delivered_shipments,74.0
+open_delayed_shipments,24.0
+in_transit_shipments,22.0
+on_time_rate_pct,70.3
+avg_delay_days_when_late,1.5
+total_weight_kg,87391.0
