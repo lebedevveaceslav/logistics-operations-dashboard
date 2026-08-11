@@ -1,0 +1,121 @@
+shipment_id,ship_date,destination,carrier,planned_days,actual_days,status,weight_kg
+SHP-0001,2026-01-19,Orhei,NorthLine,4,4,Delivered,847
+SHP-0002,2026-03-24,Orhei,MoldCargo,4,6,Delivered,1311
+SHP-0003,2026-02-26,Cahul,NorthLine,2,2,Delivered,775
+SHP-0004,2026-03-15,Balti,NorthLine,2,2,Delivered,1131
+SHP-0005,2026-01-03,Chisinau,MoldCargo,3,3,Delivered,1122
+SHP-0006,2026-02-24,Orhei,NorthLine,2,2,Delivered,946
+SHP-0007,2026-01-21,Chisinau,MoldCargo,2,,In Transit,430
+SHP-0008,2026-03-19,Orhei,MoldCargo,1,,Delayed,1300
+SHP-0009,2026-03-24,Chisinau,NorthLine,4,4,Delivered,615
+SHP-0010,2026-03-30,Orhei,MoldCargo,3,3,Delivered,714
+SHP-0011,2026-03-07,Ungheni,MoldCargo,1,1,Delivered,447
+SHP-0012,2026-02-25,Chisinau,MoldCargo,1,,Delayed,132
+SHP-0013,2026-03-19,Chisinau,MoldCargo,2,2,Delivered,531
+SHP-0014,2026-03-31,Cahul,NorthLine,2,2,Delivered,967
+SHP-0015,2026-03-07,Orhei,RapidTrans,3,3,Delivered,507
+SHP-0016,2026-02-28,Orhei,MoldCargo,3,3,Delivered,1065
+SHP-0017,2026-02-16,Balti,NorthLine,2,,In Transit,530
+SHP-0018,2026-02-13,Balti,NorthLine,1,1,Delivered,97
+SHP-0019,2026-03-11,Ungheni,NorthLine,1,1,Delivered,128
+SHP-0020,2026-03-23,Chisinau,NorthLine,3,4,Delivered,1159
+SHP-0021,2026-01-21,Orhei,RapidTrans,4,,Delayed,1343
+SHP-0022,2026-02-12,Ungheni,MoldCargo,1,1,Delivered,991
+SHP-0023,2026-03-29,Chisinau,MoldCargo,2,2,Delivered,135
+SHP-0024,2026-02-04,Orhei,NorthLine,2,,In Transit,574
+SHP-0025,2026-03-14,Ungheni,MoldCargo,2,,In Transit,608
+SHP-0026,2026-02-25,Ungheni,NorthLine,1,,Delayed,908
+SHP-0027,2026-03-23,Orhei,MoldCargo,2,2,Delivered,409
+SHP-0028,2026-01-04,Chisinau,NorthLine,1,1,Delivered,930
+SHP-0029,2026-02-15,Balti,RapidTrans,2,2,Delivered,634
+SHP-0030,2026-03-20,Chisinau,NorthLine,4,,In Transit,1174
+SHP-0031,2026-02-11,Chisinau,MoldCargo,4,4,Delivered,760
+SHP-0032,2026-02-09,Cahul,MoldCargo,2,2,Delivered,448
+SHP-0033,2026-03-21,Orhei,RapidTrans,4,,Delayed,447
+SHP-0034,2026-02-13,Orhei,NorthLine,1,,In Transit,750
+SHP-0035,2026-02-16,Cahul,NorthLine,1,1,Delivered,965
+SHP-0036,2026-03-08,Balti,MoldCargo,3,3,Delivered,760
+SHP-0037,2026-02-01,Orhei,RapidTrans,2,,In Transit,180
+SHP-0038,2026-03-10,Orhei,MoldCargo,2,,Delayed,980
+SHP-0039,2026-02-14,Chisinau,RapidTrans,1,3,Delivered,1103
+SHP-0040,2026-01-22,Balti,RapidTrans,3,3,Delivered,542
+SHP-0041,2026-02-06,Orhei,MoldCargo,2,2,Delivered,1306
+SHP-0042,2026-03-19,Cahul,NorthLine,3,,Delayed,337
+SHP-0043,2026-02-18,Orhei,RapidTrans,3,,In Transit,1345
+SHP-0044,2026-02-22,Orhei,RapidTrans,3,3,Delivered,867
+SHP-0045,2026-02-02,Chisinau,RapidTrans,4,5,Delivered,1150
+SHP-0046,2026-02-09,Balti,RapidTrans,1,1,Delivered,512
+SHP-0047,2026-01-26,Balti,NorthLine,1,1,Delivered,687
+SHP-0048,2026-02-09,Ungheni,NorthLine,2,2,Delivered,1322
+SHP-0049,2026-02-27,Chisinau,MoldCargo,1,1,Delivered,92
+SHP-0050,2026-03-06,Orhei,MoldCargo,2,,Delayed,680
+SHP-0051,2026-03-08,Chisinau,MoldCargo,4,,Delayed,650
+SHP-0052,2026-03-04,Cahul,MoldCargo,1,3,Delivered,291
+SHP-0053,2026-01-10,Balti,RapidTrans,4,4,Delivered,207
+SHP-0054,2026-02-24,Chisinau,NorthLine,2,2,Delivered,97
+SHP-0055,2026-03-20,Chisinau,MoldCargo,2,,In Transit,546
+SHP-0056,2026-02-28,Cahul,RapidTrans,4,5,Delivered,1192
+SHP-0057,2026-02-13,Chisinau,MoldCargo,3,,In Transit,821
+SHP-0058,2026-01-16,Orhei,MoldCargo,2,2,Delivered,359
+SHP-0059,2026-02-25,Cahul,RapidTrans,3,,Delayed,730
+SHP-0060,2026-02-18,Orhei,RapidTrans,3,,In Transit,478
+SHP-0061,2026-03-20,Ungheni,NorthLine,3,4,Delivered,1187
+SHP-0062,2026-02-02,Cahul,RapidTrans,4,5,Delivered,289
+SHP-0063,2026-02-16,Ungheni,NorthLine,1,1,Delivered,1300
+SHP-0064,2026-02-12,Cahul,RapidTrans,3,,Delayed,806
+SHP-0065,2026-01-23,Ungheni,RapidTrans,3,5,Delivered,499
+SHP-0066,2026-02-16,Ungheni,RapidTrans,3,,In Transit,370
+SHP-0067,2026-01-06,Ungheni,RapidTrans,3,,Delayed,1180
+SHP-0068,2026-01-13,Cahul,NorthLine,1,,In Transit,1074
+SHP-0069,2026-01-30,Cahul,NorthLine,1,,Delayed,557
+SHP-0070,2026-02-05,Chisinau,MoldCargo,2,2,Delivered,514
+SHP-0071,2026-01-17,Orhei,RapidTrans,2,,Delayed,983
+SHP-0072,2026-02-16,Cahul,MoldCargo,4,,Delayed,482
+SHP-0073,2026-03-06,Ungheni,MoldCargo,2,,Delayed,775
+SHP-0074,2026-02-09,Balti,NorthLine,3,,Delayed,232
+SHP-0075,2026-01-20,Ungheni,RapidTrans,3,,Delayed,1262
+SHP-0076,2026-02-03,Orhei,RapidTrans,3,5,Delivered,186
+SHP-0077,2026-02-01,Balti,NorthLine,2,3,Delivered,329
+SHP-0078,2026-03-04,Cahul,MoldCargo,4,,In Transit,270
+SHP-0079,2026-02-02,Ungheni,RapidTrans,2,,In Transit,466
+SHP-0080,2026-03-12,Chisinau,NorthLine,2,3,Delivered,613
+SHP-0081,2026-03-04,Ungheni,MoldCargo,1,1,Delivered,459
+SHP-0082,2026-02-08,Chisinau,RapidTrans,1,,Delayed,866
+SHP-0083,2026-03-08,Orhei,MoldCargo,3,,In Transit,1205
+SHP-0084,2026-01-02,Ungheni,RapidTrans,4,,In Transit,929
+SHP-0085,2026-03-28,Ungheni,RapidTrans,2,,In Transit,718
+SHP-0086,2026-02-22,Cahul,MoldCargo,2,3,Delivered,886
+SHP-0087,2026-03-25,Cahul,MoldCargo,1,2,Delivered,667
+SHP-0088,2026-03-25,Chisinau,NorthLine,3,3,Delivered,315
+SHP-0089,2026-03-10,Balti,NorthLine,2,,In Transit,1202
+SHP-0090,2026-02-21,Chisinau,MoldCargo,3,3,Delivered,376
+SHP-0091,2026-01-22,Cahul,NorthLine,3,3,Delivered,664
+SHP-0092,2026-01-27,Balti,NorthLine,4,,Delayed,1354
+SHP-0093,2026-02-17,Orhei,RapidTrans,3,,Delayed,746
+SHP-0094,2026-02-08,Ungheni,MoldCargo,1,,In Transit,1353
+SHP-0095,2026-01-18,Chisinau,RapidTrans,1,1,Delivered,569
+SHP-0096,2026-01-12,Chisinau,MoldCargo,2,5,Delivered,439
+SHP-0097,2026-02-04,Chisinau,RapidTrans,4,8,Delivered,528
+SHP-0098,2026-02-13,Chisinau,MoldCargo,3,3,Delivered,725
+SHP-0099,2026-01-09,Chisinau,MoldCargo,4,,In Transit,1061
+SHP-0100,2026-03-07,Balti,MoldCargo,4,4,Delivered,1038
+SHP-0101,2026-03-17,Balti,MoldCargo,4,4,Delivered,1045
+SHP-0102,2026-01-15,Balti,MoldCargo,4,4,Delivered,922
+SHP-0103,2026-03-02,Orhei,MoldCargo,2,3,Delivered,265
+SHP-0104,2026-01-26,Balti,MoldCargo,4,,Delayed,446
+SHP-0105,2026-03-22,Ungheni,MoldCargo,2,4,Delivered,428
+SHP-0106,2026-03-02,Orhei,MoldCargo,1,2,Delivered,366
+SHP-0107,2026-03-19,Ungheni,MoldCargo,2,,Delayed,550
+SHP-0108,2026-01-19,Cahul,MoldCargo,2,,Delayed,1204
+SHP-0109,2026-01-11,Orhei,NorthLine,2,2,Delivered,1203
+SHP-0110,2026-03-15,Chisinau,RapidTrans,3,,In Transit,1309
+SHP-0111,2026-03-22,Orhei,MoldCargo,1,1,Delivered,454
+SHP-0112,2026-01-02,Chisinau,MoldCargo,1,2,Delivered,1171
+SHP-0113,2026-02-26,Ungheni,NorthLine,2,2,Delivered,1125
+SHP-0114,2026-01-09,Balti,RapidTrans,2,3,Delivered,132
+SHP-0115,2026-01-11,Chisinau,RapidTrans,3,3,Delivered,839
+SHP-0116,2026-02-15,Chisinau,MoldCargo,3,3,Delivered,1277
+SHP-0117,2026-03-31,Orhei,RapidTrans,2,2,Delivered,841
+SHP-0118,2026-01-14,Chisinau,RapidTrans,3,4,Delivered,640
+SHP-0119,2026-03-03,Orhei,RapidTrans,2,2,Delivered,88
+SHP-0120,2026-02-21,Chisinau,NorthLine,1,1,Delivered,548
