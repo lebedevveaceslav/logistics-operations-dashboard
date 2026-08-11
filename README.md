@@ -28,15 +28,14 @@ The analysis answers five practical questions:
 logistics-operations-dashboard/
 ├── analysis.py
 ├── requirements.txt
+├── sample_output.txt
 ├── data/
 │   └── shipments.csv
 └── output/
     ├── analysis_summary.md
-    ├── carrier_on_time_rate.png
     ├── carrier_performance.csv
     ├── destination_performance.csv
     ├── kpi_summary.csv
-    ├── monthly_on_time_trend.png
     └── monthly_performance.csv
 ```
 
@@ -46,24 +45,34 @@ Before calculating KPIs, the script validates:
 - shipment ID uniqueness;
 - valid shipment dates.
 
-## Key outputs
-The script calculates:
-- total shipments;
-- delivered shipments;
-- currently delayed shipments;
-- shipments in transit;
-- on-time delivery rate;
-- average delay for late completed shipments;
-- total transported weight;
-- carrier performance;
-- destination performance;
-- monthly performance trend.
+## Key results
+
+| KPI | Result |
+|---|---:|
+| Total shipments | 120 |
+| Delivered shipments | 74 |
+| Currently delayed | 24 |
+| In transit | 22 |
+| On-time delivery rate | 70.3% |
+| Average delay when late | 1.50 days |
+| Total transported weight | 87,391 kg |
 
 ### Carrier performance
-![Carrier on-time delivery rate](output/carrier_on_time_rate.png)
 
-### Monthly trend
-![Monthly on-time delivery rate](output/monthly_on_time_trend.png)
+| Carrier | Delivered | Avg. delay | On-time rate |
+|---|---:|---:|---:|
+| NorthLine | 23 | 0.17 days | 82.6% |
+| MoldCargo | 32 | 0.44 days | 71.9% |
+| RapidTrans | 19 | 0.79 days | 52.6% |
+
+### Operational observations
+- NorthLine has the strongest on-time performance in the demo dataset at **82.6%**.
+- RapidTrans has the lowest on-time performance at **52.6%**.
+- Balti is the strongest destination by on-time rate at **84.6%**.
+- Cahul has the lowest destination on-time rate at **50.0%**.
+- Monthly on-time performance ranges from **66.7% to 73.3%** across the three-month demo period.
+
+The Python script also generates two PNG charts locally when executed: carrier on-time delivery rate and monthly on-time delivery trend.
 
 ## How to run
 ```bash
